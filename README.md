@@ -4,13 +4,12 @@
 
 # Hello Guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Spideyspidery and I'm a Gamer, Programer, Developer, Youtuber and a kid =|. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Spideyspidery and I'm a Gamer, Programer, Developer, Youtuber and a kid =|.
 
 ## &#x270d; Youtube and Discord
 
 Apart from coding, I also maintain a Youtube Channel and a Discord Server... Remember to subscribe to my Youtube Channel and Join my Discord Server!(Links Given Below!)
-Youtube: https://www.youtube.com/channel/UC8yYfetvXdorcN_I4iV9k2g
-Discord: https://discord.com/invite/U36dgtTu6D
+<a href="https://github.com/Spideyspidery/Spideyspidery">
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
