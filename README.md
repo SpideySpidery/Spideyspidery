@@ -8,7 +8,7 @@ My name is Spideyspidery and I'm a Gamer, Programer, Developer, Youtuber and a k
 
 ## &#x270d; Youtube and Discord
 
-Apart from coding, I also maintain a Youtube Channel and a Discord Server... Remember to subscribe to my Youtube Channel and Join my Discord Server!(Links Given Below!)
+Apart from coding, I also maintain a Youtube Channel... Remember to subscribe to my Youtube Channel!
 <a href="https://github.com/Spideyspidery/Spideyspidery">
 
 ## 🔧 Technologies & Tools
