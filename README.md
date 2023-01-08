@@ -43,6 +43,7 @@ Apart from coding, I also maintain a Youtube Channel... Remember to subscribe to
 ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
 ![Mine-Imator](http://gg.gg/mi-badge)
 ![Youtube](https://img.shields.io/badge/Youtube-SpideySpidery-red?style=for-the-badge&logo=youtube)
+![MC](http://gg.gg/12xyp6)
 
 
 <!-- Resources -->
