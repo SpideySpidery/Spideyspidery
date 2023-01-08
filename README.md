@@ -2,7 +2,7 @@
 
 [![Header](https://cdn.discordapp.com/attachments/877080943884644355/877081178727919656/Image20210817121710.png "Header")](https://spideyspidery.github.io/)
 
-# Hello Guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hi%2C+Im+SpideySpidery!;Subscribe!)](https://git.io/typing-svg)
 
 My name is Spideyspidery and I'm a Gamer, Programer, Developer, Youtuber and a kid =|.
 
