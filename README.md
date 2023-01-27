@@ -19,7 +19,7 @@ Apart from coding, I also maintain a Youtube Channel... Remember to subscribe to
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 
-## &#x1f4c8; GitHub Stats
+<!-- ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Spideyspidery/Spideyspidery">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spideyspidery&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
@@ -37,7 +37,7 @@ Apart from coding, I also maintain a Youtube Channel... Remember to subscribe to
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Spideyspidery&repo=free-nitro.com&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> -->
 
   
-  
+   -->
 <!-- links to social media icons -->
 ## &#x1F4AB; Other Profiles
 ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
