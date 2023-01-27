@@ -36,8 +36,6 @@ Apart from coding, I also maintain a Youtube Channel... Remember to subscribe to
 <a href="https://github.com/Spideyspidery/free-nitro.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Spideyspidery&repo=free-nitro.com&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> -->
 
-  
-   -->
 <!-- links to social media icons -->
 ## &#x1F4AB; Other Profiles
 ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
